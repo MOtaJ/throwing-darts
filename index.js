@@ -1,0 +1,1 @@
+let dartsScore = [1, 15, 7];
